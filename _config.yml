@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
+title:          Michel Neeser
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+url:            "https://michelneeser.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Michel Neeser
+  url:          https://michelneeser.github.io
+  email:        yyy@yyy.com
 
 # Build settings
 markdown:       kramdown
@@ -27,7 +27,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
