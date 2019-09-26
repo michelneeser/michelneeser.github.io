@@ -1,6 +1,6 @@
 # Site settings
 title:          Michel Neeser
-description:    "Minimal Jekyll theme for storytellers"
+description:    "Michel Neeser - Java Developer, Tech Enthusiast"
 url:            "https://michelneeser.github.io"
 
 # Google Analytics
@@ -9,8 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Michel Neeser
-  url:          https://michelneeser.github.io
-  email:        yyy@yyy.com
+  email:        hello@michelneeser.com
 
 # Build settings
 markdown:       kramdown
