@@ -11,4 +11,4 @@ permalink: /links/
 * [Vanilla JS](http://vanilla-js.com){:target="_blank"} <cite>&mdash; The ultimate JS library ;-)</cite>
 
 ## Computer science
-* [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) <cite>&mdash; YouTube video series about the basics of computer science</cite>
+* [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo){:target="_blank"} <cite>&mdash; YouTube video series about the basics of computer science</cite>
