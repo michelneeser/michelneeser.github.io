@@ -4,6 +4,8 @@ title: "Links"
 permalink: /links/
 ---
 
+A collection of my favorite links!<br><br>
+
 ## Web
 * [Jekyll](https://jekyllrb.com){:target="_blank"} <cite>&mdash; Very cool static site generator (on which this site is based)</cite>
 
