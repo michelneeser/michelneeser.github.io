@@ -4,4 +4,4 @@ title: "About"
 permalink: /about/
 ---
 
-something about me and my work, currently under construction ...
+Something about me and my work comes here as soon as I find the time.
